@@ -79,5 +79,5 @@ function ChangeSlide(sens) {
   txtBanner.innerHTML = slides[numero].tagLine;
 }
 
-setInterval("ChangeSlide(1)", 10000);
-setInterval("ChangeDot(1)", 10000);
+setInterval("ChangeSlide(1)", 7000);
+setInterval("ChangeDot(1)", 7000);
